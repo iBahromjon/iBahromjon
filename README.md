@@ -25,14 +25,22 @@
 💡 **Kod yozishda musiqa ilhom beradi:**  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Spinning Music Disk" width="200" height="200">  
-  <br>  
-  🎶 *Lofi Beats:*  
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank"><img src="https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify" alt="Listen on Spotify"></a>  
+  <img src="https://media.giphy.com/media/5T06ftUX3L39e7lMZk/giphy.gif" alt="Music Player Animation" width="400">  
 </div>  
 
-💻 **Bunday muhitda ishlash kod yozish zavqini oshiradi!**
+🎶 **Lofi Beats tinglash uchun bosing:**  
+[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
+---
+
+🎧 **Animatsiya haqida:**  
+- 🎵 Disk aylanishi va musiqa ritmiga mos tushuvchi chiziqlar.  
+- 💡 Kod yozayotgan paytda musiqa muhiti haqiqiyroq ko'rinadi.  
+- 🚀 Realistik pleyer his-tuyg'ularini yaratadi.
+
+<div align="center">  
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Music Playing Visualization" width="400">  
+</div>  
 
 ---
 
