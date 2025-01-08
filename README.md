@@ -1,6 +1,6 @@
 # Bahromjon Najmiddinov | Frontend Developer 🌐
 
-![Developer at Work](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Developer at Work](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 👋 Salom! Men **Bahromjon Najmiddinov**, 16 yoshdaman va frontend dasturchiman. Asosan **React** va **JavaScript** bilan ishlayman.  
 
@@ -23,8 +23,8 @@
 
 ---
 
-## 🌈 My Workflow  
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+## 🛠 My Workflow  
+![Coding Workflow](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ---
 
@@ -37,12 +37,12 @@
 
 ## 📩 Contact Me
 - **GitHub:** [iBahromjon](https://github.com/iBahromjon)
-- **Telegram:** [@iBahromjon](https://t.me/iBahromjon)
-- **Email:** bahromjonnajmiddinov45@gmail.com
+- **Telegram:** [@yourtelegram](https://t.me/yourtelegram)
+- **Email:** bahromjon@example.com
 
 ---
 
 ## 🎯 Let's Build the Web Together!
-![Team Work](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
+![Collaboration](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ⭐️ GitHub yulduzchalarida birga bo'laylik va web-dunyoni yanada go'zal qila olamiz!
