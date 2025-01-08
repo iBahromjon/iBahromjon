@@ -20,27 +20,28 @@
 
 ---
 
-## 🎵 Coding Vibes  
+## 🎵 I Was Only Temporary  
 
-💡 **Kod yozishda musiqa ilhom beradi:**  
+💡 **Hayratga soluvchi musiqiy kayfiyat:**  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/l3yvZ2JPAowBgYlOFJ/giphy.gif" alt="Music Player Animation" width="480" height="269">  
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="I Was Only Temporary Animation" width="480" height="269">  
 </div>  
 
-🎶 **Lofi Beats tinglash uchun bosing:**  
-[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM)
-
-
+🎶 **Bu kayfiyatni yanada his qilish uchun musiqa tinglang:**  
+[![Play Music](https://img.shields.io/badge/Play%20on%20Spotify-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM)
 
 ---
 
-🎧 **Animatsiya haqida:**  
-- 🎵 Disk aylanishi va pastda ritmik chiziqlar.  
-- 💻 Kod yozayotganingizda haqiqiy musiqa muhiti yaratadi.  
-- 🚀 O'zingizni haqiqiy musiqachidek his qilasiz!  
+🎧 **Nega bu animatsiya ilhom beradi?**  
+- 🎵 "I Was Only Temporary" nomli his-tuyg'uga boy musiqiy tajribani aks ettiradi.  
+- 💻 Kod yozayotganingizda tasavvurlarni kuchaytiradi.  
+- 🚀 Sizni o'ylantiruvchi va tinchlantiruvchi muhit yaratadi.
 
 ---
+
+⭐️ **Bu musiqiy kayfiyat bilan kodlashni sevimli mashg'ulotingizga aylantiring!**
+
 
 ## 🌟 About Me  
 - 👨‍💻 Yosh va innovatsion texnologiyalarga ishtiyoqli dasturchi.  
