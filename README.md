@@ -24,21 +24,19 @@
 
 💡 **Kod yozishda musiqa ilhom beradi:**  
 
-<iframe src="https://giphy.com/embed/l3yvZ2JPAowBgYlOFJ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baxshop-bax-shop-music-l3yvZ2JPAowBgYlOFJ">via GIPHY</a></p>
+<div align="center">  
+  <img src="https://media.giphy.com/media/l3yvZ2JPAowBgYlOFJ/giphy.gif" alt="Music Player Animation" width="480" height="269">  
+</div>  
 
 🎶 **Lofi Beats tinglash uchun bosing:**  
-[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM)
 
 ---
 
 🎧 **Animatsiya haqida:**  
-- 🎵 Disk aylanishi va musiqa ritmiga mos tushuvchi chiziqlar.  
-- 💡 Kod yozayotgan paytda musiqa muhiti haqiqiyroq ko'rinadi.  
-- 🚀 Realistik pleyer his-tuyg'ularini yaratadi.
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Music Playing Visualization" width="400">  
-</div>  
+- 🎵 Disk aylanishi va pastda ritmik chiziqlar.  
+- 💻 Kod yozayotganingizda haqiqiy musiqa muhiti yaratadi.  
+- 🚀 O'zingizni haqiqiy musiqachidek his qilasiz!  
 
 ---
 
