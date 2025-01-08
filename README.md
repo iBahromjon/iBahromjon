@@ -21,11 +21,19 @@
 ---
 
 ## 🎵 Coding Vibes  
-💡 **Dasturlash davomida tinglayman:**  
-- 🎧 *Lofi Beats*  
-  [![Lofi](https://img.shields.io/badge/Lofi%20Beats-Play-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+💡 **Kod yozishda musiqa ruhlantiradi:**  
 
-![Music Animation](https://media.giphy.com/media/3orieQcQWlXyG6lIt6/giphy.gif)
+![Music Setup](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)  
+
+🎧 *Lofi Beats:*  
+[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+
+---
+
+🎶 **Tasavvur qiling:** Quyidagi animatsiya musiqangizni tinglash paytidagi real his-tuyg'ularni aks ettiradi:  
+![Visualizer Animation](https://media.giphy.com/media/1rNWZG2Si7h6rds5Ve/giphy.gif)
+
+💻 **Bunday atmosferada ishlash, albatta, ilhom bag'ishlaydi!**
 
 ---
 
