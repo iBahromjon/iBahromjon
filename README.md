@@ -21,19 +21,27 @@
 ---
 
 ## 🎵 Coding Vibes  
-💡 **Kod yozishda musiqa ruhlantiradi:**  
 
-![Music Setup](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)  
+💡 **Kod yozishda musiqa ilhom beradi:**  
 
-🎧 *Lofi Beats:*  
-[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+<div align="center">  
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Spinning Music Disk" width="200" height="200">  
+  <br>  
+  🎶 *Lofi Beats:*  
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank"><img src="https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify" alt="Listen on Spotify"></a>  
+</div>  
 
 ---
 
-🎶 **Tasavvur qiling:** Quyidagi animatsiya musiqangizni tinglash paytidagi real his-tuyg'ularni aks ettiradi:  
-![Visualizer Animation](https://media.giphy.com/media/1rNWZG2Si7h6rds5Ve/giphy.gif)
+🎧 **Qanday tuyuladi?**  
+Quyidagi vizualizatsiya *real musiqa muhiti*ni aks ettiradi:  
 
-💻 **Bunday atmosferada ishlash, albatta, ilhom bag'ishlaydi!**
+<div align="center">  
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" alt="Audio Spectrum Animation" width="400">  
+</div>  
+
+💻 **Bunday muhitda ishlash kod yozish zavqini oshiradi!**
+
 
 ---
 
