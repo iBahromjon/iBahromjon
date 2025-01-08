@@ -24,7 +24,7 @@
 
 💡 **Kod yozishda musiqa ilhom beradi:**  
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l3yvZ2JPAowBgYlOFJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/baxshop-bax-shop-music-l3yvZ2JPAowBgYlOFJ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l3yvZ2JPAowBgYlOFJ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/baxshop-bax-shop-music-l3yvZ2JPAowBgYlOFJ">via GIPHY</a></p>
 
 🎶 **Lofi Beats tinglash uchun bosing:**  
 [![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
