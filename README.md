@@ -34,11 +34,11 @@
 - Open-source loyihalarda ishtirok etish.
 
 ---
-
-## 📩 Contact Me
-- **GitHub:** [iBahromjon](https://github.com/iBahromjon)
-- **Telegram:** [@yourtelegram](https://t.me/yourtelegram)
-- **Email:** bahromjon@example.com
+## 📩 Contact Me  
+- ![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [iBahromjon](https://github.com/iBahromjon)  
+- ![Telegram](https://img.icons8.com/color/30/000000/telegram-app.png) [@iBahromjon](https://t.me/iBahromjon)  
+- ![Email](https://img.icons8.com/ios-filled/30/000000/email.png) bahromjonnajmiddinov45@gmail.com  
+- ![Phone](https://img.icons8.com/ios-glyphs/30/000000/phone.png) +998 88 626 06 20  
 
 ---
 
