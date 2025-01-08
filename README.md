@@ -32,23 +32,6 @@
 [![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM)
 
 
-## 🎵 Coding Vibes  
-
-💡 **Kod yozishda musiqa ilhom beradi:**  
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="I Was Only Temporary Animation" width="480" height="269">  
-</div>  
-
-🎶 **Lofi Beats tinglash uchun bosing:**  
-[![Lofi Beats](https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM)
-
----
-
-🎧 **Animatsiya haqida:**  
-- 🎵 "I Was Only Temporary" o'zining chuqur va hisli ritmi bilan ilhom beradi.  
-- 💻 Kod yozayotganingizda sizni tinchlantiruvchi va o'ylantiruvchi muhit yaratadi.  
-- 🚀 Realistik audio spektr tajribasi!
 
 ---
 
