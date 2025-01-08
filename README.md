@@ -31,15 +31,6 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank"><img src="https://img.shields.io/badge/Lofi%20Beats-Play-green?style=for-the-badge&logo=spotify" alt="Listen on Spotify"></a>  
 </div>  
 
----
-
-🎧 **Qanday tuyuladi?**  
-Quyidagi vizualizatsiya *real musiqa muhiti*ni aks ettiradi:  
-
-<div align="center">  
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" alt="Audio Spectrum Animation" width="400">  
-</div>  
-
 💻 **Bunday muhitda ishlash kod yozish zavqini oshiradi!**
 
 
